@@ -8,7 +8,7 @@
 
 > *One step at a time. I'm becoming a developer. I’ll get there.*
 
-Currently vibe coding with **React** and **Next.js**.  
+Currently Vibe Coding with **React** and **Next.js**.  
 Sometimes I mess around with **Python**, but still learning the ropes.  
 I’m on my path — exploring, building, breaking things, improving.
 
