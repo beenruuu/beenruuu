@@ -31,6 +31,7 @@ I’m on my path — exploring, building, breaking things, improving.
 ## 📫 Reach me
 
 - GitHub: [@beenruuu](https://github.com/beenruuu)
+- Contact: rgonzalez006@outlook.es
 
 ---
 
