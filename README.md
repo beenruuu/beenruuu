@@ -2,23 +2,27 @@
   <img src="https://i.imgur.com/A6bWGFl.gif" alt="Vibe Coding" />
 </p>
 
-<h1>
+<h1 align="center">
   I'm beenruuu
 </h1>
 
 > *One step at a time. I'm becoming a developer. I’ll get there.*
 
-Currently Vibe Coding with **React** and **Next.js**.  
-Sometimes I mess around with **Python**, but still learning the ropes.  
-I’m on my path — exploring, building, breaking things, improving.
+---
+
+👋 Hi! I'm **Rubén González Muñoz**, a web development student from **Spain** 🇪🇸.  
+Currently studying **DAW (Web Application Development)**.  
+Learning **Java**, **SQL**, and improving my understanding of **web technologies**.  
+
+Still **Vibe Coding** with **React** and **Next.js** — exploring, building, breaking things, and learning as I go.
 
 ---
 
 ## 🌱 In Progress
 
-- No rush. I'm here for the long game.
-- Experimenting with ideas, visuals, and code that feels right.
-- I care about what looks good, feels good, and flows.
+- Learning the fundamentals with patience and curiosity.  
+- Discovering how design and logic work together.  
+- Experimenting with code that feels right and makes sense.  
 
 ---
 
@@ -30,8 +34,9 @@ I’m on my path — exploring, building, breaking things, improving.
 
 ## 📫 Reach me
 
-- GitHub: [@beenruuu](https://github.com/beenruuu)
-- Contact: rgonzalez006@outlook.es
+- GitHub: [@beenruuu](https://github.com/beenruuu)  
+- Email: [rgonzalez006@outlook.es](mailto:rgonzalez006@outlook.es)
 
 ---
 
+⭐ *"Progress, not perfection."*
